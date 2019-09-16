@@ -1,3 +1,1 @@
-I am in the master
-
-I am in the branch now
+I am in the branch
