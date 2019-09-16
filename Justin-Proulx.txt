@@ -1,2 +1,4 @@
 Name: Justin Proulx
 Email: jprou078@uottawa.ca
+
+I am in my local git repo
